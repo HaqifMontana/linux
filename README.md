@@ -1,0 +1,2 @@
+# linux
+setting up git
